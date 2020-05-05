@@ -1,2 +1,19 @@
-Variables,Age,Gender,Race (Whites),Race (Blacks),Race (Hispanics),Race (Asians),Race (Other),Education,Coronavirus,Anxiety,Impairment,Alcohol,Religious,Hopelessness,Suicidal,Trump,Chinese,Plans
-CAS,−0.32***,0.06,−0.21***,−0.08*,0.03,0.25***,−0.07,0.30***,0.30***,−0.03,0.86***,0.80***,0.78***,0.75***,0.79***,0.47***,0.26***,−0.07
+Variables,CAS
+Age,−0.32***
+Gender,0.06
+Race (Whites),−0.21***
+Race (Blacks),−0.08*
+Race (Hispanics),0.03
+Race (Asians),0.25***
+Race (Other),−0.07
+Education,0.30***
+Coronavirus,0.30***
+Anxiety,−0.03
+Impairment,0.86***
+Alcohol,0.80***
+Religious,0.78***
+Hopelessness,0.75***
+Suicidal,0.79***
+Trump,0.47***
+Chinese,0.26***
+Plans,−0.07
